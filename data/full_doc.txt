@@ -1,0 +1,4 @@
+Account Management|High|2023-10-01|Resetting your password is simple. Click “Forgot Password” at login, check your email, and follow the instructions.
+Billing|Medium|2023-09-21|If you identify a billing error, open a dispute via your account dashboard and provide supporting documentation.
+Troubleshooting|Low|2023-10-05|If you cannot connect, check your network cables, router, and try restarting your device. For persistent problems, contact support.
+...
